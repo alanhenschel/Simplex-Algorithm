@@ -3,7 +3,7 @@
 """
 Created on Tue Apr 16 15:50:13 2019
 
-@author: pinhao
+@author: Alan Henschel Costa
 """
 import numpy as np
 import copy
